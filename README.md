@@ -1,5 +1,5 @@
 # Introduction
-JPA Query Filter est une extension de la spécification JPA qui simplifie considérablement la construction des requêtes de recherche multi-critères en ajoutant une couche d'abstraction intuitive sous le Criteria API.
+JPA Query Filter est une extension JPA qui simplifie considérablement la construction des requêtes de recherche multi-critères en ajoutant une couche d'abstraction intuitive sous le Criteria API.
 # Installation
 ### 1 - Requirements
 - Java 17+
